@@ -1,4 +1,4 @@
-# Masked-Word-Prediction-using-Transformers-
+Masked-Word-Prediction-using-Transformers
 A compact, from-scratch masked-word prediction project implementing a Transformer architecture (no pretrained prediction models). The repo documents an iterative approach that progressed from LSTM → BiLSTM → Transformer, with custom evaluation using semantic and fluency metrics.
 
 Table of Contents
@@ -66,4 +66,3 @@ Outputs
 Predictions and evaluation scores exported as CSVs.
 Merged result files for easy visualization and downstream analysis.
 Saved checkpoints for reproducibility.
-
